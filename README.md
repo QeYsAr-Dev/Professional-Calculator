@@ -1,5 +1,7 @@
 # 🧮 Professional Calculator
 
+💡 From Concept To Creation
+
 A clean and professional calculator built with Python.
 
 ## ✨ Features
